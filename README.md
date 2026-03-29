@@ -27,15 +27,11 @@
 ![](https://streak-stats.demolab.com/?user=KonapalliMahendraReddy9866&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KonapalliMahendraReddy9866&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=KonapalliMahendraReddy9866&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
 ## 📈 Activity Graph:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=KonapalliMahendraReddy9866&theme=tokyo-night)
 
----
+## ✨ Quote:
+🚀 “Small steps every day.”
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
