@@ -23,8 +23,11 @@
 ![Workflows](https://img.shields.io/badge/Workflows-FF6F00?style=flat-square&logo=appian&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=KonapalliMahendraReddy9866&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=KonapalliMahendraReddy9866&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KonapalliMahendraReddy9866&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
