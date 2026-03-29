@@ -21,9 +21,10 @@
 ![SAIL](https://img.shields.io/badge/SAIL-02569B?style=flat-square&logo=appian&logoColor=white)
 ![Interfaces](https://img.shields.io/badge/Interfaces-0A66C2?style=flat-square&logo=appian&logoColor=white)
 ![Workflows](https://img.shields.io/badge/Workflows-FF6F00?style=flat-square&logo=appian&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KonapalliMahendraReddy9866&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KonapalliMahendraReddy9866&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KonapalliMahendraReddy9866&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
